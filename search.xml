@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>出差及报销问题</title>
+      <link href="/posts/8304.html"/>
+      <url>/posts/8304.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="出差问题"><a href="#出差问题" class="headerlink" title="出差问题"></a>出差问题</h1><h1 id="报销问题"><a href="#报销问题" class="headerlink" title="报销问题"></a>报销问题</h1><h2 id="一、提交报销申请"><a href="#一、提交报销申请" class="headerlink" title="一、提交报销申请"></a>一、提交报销申请</h2><ol><li>提交报销申请在应用导航的 <code>ERP门户系统</code> 中，选择我要报账<br><img src="https://cdn.nlark.com/yuque/0/2024/png/27025970/1730685627301-0fd878dd-0587-4607-b628-25c85b5194b6.png" alt=""></li><li>在保障服务平台—单据管理—全部单据里选择—差旅费报账单（新）<br><img src="https://cdn.nlark.com/yuque/0/2024/png/27025970/1730685609428-984a212c-c13b-48b8-bb1c-a32bc12caa48.png" alt=""></li><li>报销申请单填写<ul><li>选择想要报销的出差审批单<br><img src="https://cdn.nlark.com/yuque/0/2024/png/27025970/1730685665791-f7efac3c-4a46-473c-8ab8-dadd7e61babc.png" alt=""></li><li>上传想要报销的发票后点击下一步<br><img src="https://cdn.nlark.com/yuque/0/2024/png/27025970/1730685672853-e38fd9dc-6cac-49c5-af6e-72e2945c713c.png" alt=""></li><li>填写基本信息<br><img src="https://cdn.nlark.com/yuque/0/2024/png/27025970/1730685799038-1fe53f78-d04e-49d7-9fd2-fd161abcbd46.png" alt=""><br><font style="color:#DF2A3F;background-color:#FBDE28;">影像张数：</font>上传附件图片数量。<br>摘要部分三部分：<font style="color:#DF2A3F;background-color:#FBDE28;">姓名、出差审批单编号、报账单号</font>。</li><li>在本次出差相关费用一栏填写，填写金额视情况而定，一般提前一天去，晚一天回来有两百元伙食补助。<br><img src="https://cdn.nlark.com/yuque/0/2024/png/27025970/1730685711328-6237699f-abfc-47c2-b252-cafa9b4dd01b.png" alt=""></li><li>填写城市间交通费—火车硬座<br><img src="https://cdn.nlark.com/yuque/0/2024/png/27025970/1730685792458-d034262d-714b-4633-a01d-3fd8f4305151.png" alt=""></li><li><font style="color:rgb(55, 53, 47);">点击按照报账人支付同步金额</font><br><img src="https://cdn.nlark.com/yuque/0/2024/png/27025970/1730685869689-7cc220d0-2b92-46c0-8263-3612f74627e9.png" alt=""></li></ul></li><li>提交报销申请单<br><img src="https://cdn.nlark.com/yuque/0/2024/png/27025970/1730685885051-087764eb-97fb-4eb7-97ae-ffd6b3135f0a.png" alt=""></li></ol><font style="background-color:#f3bb2f;">注意：报销只能在每月的 28 号前进行，因为不能跨月提，28 日是最后一天付款日</font><font style="background-color:#f3bb2f;"></font><h2 id="二、打印签字流程"><a href="#二、打印签字流程" class="headerlink" title="二、打印签字流程"></a>二、打印签字流程</h2><p>打印清单：</p><ol><li>报销申请单</li><li>出差审批单</li><li>报销凭证</li><li>培训通知截图</li></ol><p>打印完成后交给吉吉姐签字—伟春主任签字—财务部门审核（9楼）—告知吉吉姐</p><p><img src="https://cdn.nlark.com/yuque/0/2024/png/27025970/1730708145466-e719093f-39a0-43ca-9790-81da042c47f4.png" alt=""></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/16107.html"/>
+      <url>/posts/16107.html</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
